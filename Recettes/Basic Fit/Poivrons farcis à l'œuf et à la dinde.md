@@ -28,4 +28,4 @@
 8. Faites cuire au four pendant 15 minutes jusqu'à ce que le fromage ait fondu et que les bords soient dorés.
 9. Pour servir, saupoudrer de persil haché.
 
-#recettes #basic-fit
+#recettes #basic-fit #plat

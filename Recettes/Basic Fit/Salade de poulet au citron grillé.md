@@ -23,4 +23,4 @@
 4. Faites chauffer l'huile de coco dans une petite poêle à feu moyen et faites cuire les asperges et les oignons verts pendant 3 à 4 minutes ou jusqu'à ce qu'ils soient tendres, en les retournant de temps en temps. Coupes les asperges et les oignons verts en morceaux de 2 pouces.
 5. Répartissez la fusée sur des assiettes et garnissez d'asperges et d'oignons verts. Arrosez de vinaigre de vin blanc et assaisonnez de sel et de poivre. Servez avec du poulet et des moitiés de citron.
 
-#recettes #basic-fit
+#recettes #basic-fit #plat

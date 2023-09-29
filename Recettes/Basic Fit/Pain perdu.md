@@ -16,4 +16,4 @@
 2. Versez le mélange sur les tranches de pain, puis laissez-le tremper jusqu'à ce qu'il soit complètement mou (5 à 10 minutes).
 3. faites frire le pain dans une poêle à feu moyen-vif jusqu'à ce qu'il soit légèrement doré des deux côtés.
 
-#recettes #basic-fit
+#recettes #basic-fit #plat
